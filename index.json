@@ -1,0 +1,13 @@
+{
+  "extensions": [
+    {
+      "id": "docker",
+      "name": "Docker",
+      "description": "Containers, images, logs, shells, container files and environments inside containers, from the Docker CLI.",
+      "repository": "https://github.com/joordih/krad-docker.git",
+      "commit": "ac29ec4f09b615a948fa6277f549a2e560e1400b",
+      "api": "1.0",
+      "tags": ["docker", "containers", "compose", "devops"]
+    }
+  ]
+}
