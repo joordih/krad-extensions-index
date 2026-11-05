@@ -5,7 +5,7 @@
       "name": "Docker",
       "description": "Containers, images, logs, shells, container files and environments inside containers, from the Docker CLI.",
       "repository": "https://github.com/joordih/krad-docker.git",
-      "commit": "ac29ec4f09b615a948fa6277f549a2e560e1400b",
+      "commit": "5968096532232e8913500d96cf380ee44e5cfd98",
       "api": "1.0",
       "tags": ["docker", "containers", "compose", "devops"]
     }
