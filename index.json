@@ -17,6 +17,15 @@
       "commit": "dc12628898ce861c4d82b1efd56273398dc41aac",
       "api": "1.1",
       "tags": ["spotify", "music", "media", "player", "now-playing"]
+    },
+    {
+      "id": "discord-rpc",
+      "name": "Discord RPC",
+      "description": "Discord Rich Presence for your workspace: project and branch, active file, what your coding agents are doing, idle state and buttons.",
+      "repository": "https://github.com/raloonsoc/krad-discord-rpc-extension.git",
+      "commit": "8f5b6997749674f7ab19bc229404243203e9c1db",
+      "api": "1.2",
+      "tags": ["discord", "rich-presence", "presence", "status", "agents"]
     }
   ]
 }
