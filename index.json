@@ -14,7 +14,7 @@
       "name": "Spotify",
       "description": "Control Center-style Now Playing popover in the titlebar for Spotify, Apple Music, browsers and other media players on macOS, Linux and Windows.",
       "repository": "https://github.com/raloonsoc/krad-spotify-extension.git",
-      "commit": "f0ca7edeba760c679322bf3786c17fd95f91f548",
+      "commit": "dc12628898ce861c4d82b1efd56273398dc41aac",
       "api": "1.1",
       "tags": ["spotify", "music", "media", "player", "now-playing"]
     }
